@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Twitter C</string>
+    <string name="back4app_app_id">Fk1AumiQGLBWDRt7Dp3XYOgciOZS0yw9SoI4SrPQ</string>
+    <string name="back4app_client_key">VPO3uQIeDWu5zg0pt7PTzp0GFQzzX9G6cbf0q9qE</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+</resources>
